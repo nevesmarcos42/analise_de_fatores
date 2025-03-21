@@ -34,7 +34,7 @@ Este projeto realiza uma análise de fatores no conjunto de dados **Iris**, util
 4. Inicialize o repositório com um README ou faça isso manualmente depois.
 5. No terminal, clone o repositório com:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/nevesmarcos42/nome-do-repositorio.git
    ```
 6. Navegue até a pasta do projeto e adicione os arquivos:
    ```bash
